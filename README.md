@@ -12,7 +12,7 @@ We process your information for purposes based on legitimate business interests,
 
 # Terms and Privacy Policy
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at [https://github.com/animefilm/appprivacy/](https://github.com/animefilm/appprivacy/) unless otherwise defined in this Privacy Policy. We may use cookies and other tracking technologies to collect and store your information. For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. If you choose to register or log in to our services using a social media account, we may have access to certain information about you. We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at [[https://github.com/animefilm/filmbinplusnew/]([https://github.com/animefilm/filmbinplusnew](https://github.com/animefilm/filmbinplusnew))](https://github.com/animefilm/appprivacy/) unless otherwise defined in this Privacy Policy. We may use cookies and other tracking technologies to collect and store your information. For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. If you choose to register or log in to our services using a social media account, we may have access to certain information about you. We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
 # Information Collecting Protocol 
 
